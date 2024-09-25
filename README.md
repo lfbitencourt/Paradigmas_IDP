@@ -16,7 +16,7 @@ Para executar este código, você precisará ter:
 Caso não tenha PHP instalado, você pode baixar e instalar a partir do site [oficial](https://www.php.net/downloads) ou, caso esteja utilizando um MAC, usando o comando: 
 
 ```bash
-brew install php.
+brew install php
 ```
 
 ### 1. Clone o repositório ou baixe o código-fonte:
