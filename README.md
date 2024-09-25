@@ -13,9 +13,18 @@ Para executar este código, você precisará ter:
   ```bash
   php -v
   ````
-Caso não tenha PHP instalado, você pode baixar e instalar a partir do site [oficial](https://www.php.net/downloads) ou, caso esteja utilizando um MAC, usando o comando brew install php.
+Caso não tenha PHP instalado, você pode baixar e instalar a partir do site [oficial](https://www.php.net/downloads) ou, caso esteja utilizando um MAC, usando o comando: 
 
-### 1. Clone o repositório ou baixe o código-fonte
+```bash
+brew install php.
+```
+
+### 1. Clone o repositório ou baixe o código-fonte:
+Se você estiver usando Git, clone o repositório com o seguinte comando:
+
+```bash
+git clone https://github.com/lfbitencourt/Paradigmas_IDP
+```
 
 ### 2. Navegue até o diretório do projeto
 
@@ -23,7 +32,10 @@ Caso não tenha PHP instalado, você pode baixar e instalar a partir do site [of
 Você pode executar o programa diretamente com o PHP, pois ele é um script interpretado.
 
 No terminal, digite o seguinte comando:
-    php index.php
+
+```bash
+php index.php
+```
 
 ### 4. Interaja com o programa
 Após iniciar o programa, você verá um menu de opções no terminal. Utilize o teclado para interagir com ele. As opções incluem:
